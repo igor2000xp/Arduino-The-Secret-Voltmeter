@@ -1,5 +1,7 @@
 /* Видеообзоры и уроки работы с ARDUINO на YouTube-канале IOMOIO: https://www.youtube.com/channel/UCmNXABaTjX_iKH28TTJpiqA
  *  
+ Github
+ https://github.com/igor2000xp/Arduino-The-Secret-Voltmeter.git
  
  * Copyright 2015 Yuriy Tim http://tim4dev.com
  * На основе оригинального кода (c) Scott Daniels http://provideyourown.com
